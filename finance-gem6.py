@@ -1,6 +1,7 @@
 # Lastest worked 
 # Support THAI text
 import streamlit as st
+st.set_page_config(layout="wide", page_title="Real Estate Sales AI Assistant")
 import pandas as pd
 from prophet import Prophet
 import xgboost as xgb
@@ -88,7 +89,7 @@ else:
 
 # ... โค้ดส่วนที่เหลือของคุณ (st.set_page_config และอื่น ๆ) ...
 # --- Streamlit Page Configuration ---
-st.set_page_config(layout="wide", page_title="Real Estate Sales AI Assistant")
+#st.set_page_config(layout="wide", page_title="Real Estate Sales AI Assistant")
 
 st.title("🏡 Sales AI Assistant")
 st.write("เครื่องมือช่วยวิเคราะห์การขายโครงการอสังหาริมทรัพย์ด้วย AI")
