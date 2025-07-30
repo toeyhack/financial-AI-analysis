@@ -1,0 +1,6 @@
+Marketing_Activity_ID,Campaign_Name,Project_ID,Activity_Date,Marketing_Channel,Budget_Baht,Leads_Generated,Conversion_Rate_to_Visit,Conversion_Rate_to_Sale,Target_Audience_Segment,Ad_Platform
+MKT001,Grand Launch Phase 1,P001,2023-01-05,Online Ads,500000,2000,0.1,0.01,All,Facebook
+MKT002,Weekend Open House,P001,2023-01-15,Event,100000,300,0.3,0.02,Local,On-site
+MKT003,Phuket Beachfront Promo,P002,2023-02-10,Real Estate Expo,200000,500,0.25,0.03,Investors,Bangkok Expo
+MKT004,Digital Campaign Q1,P003,2023-03-01,Social Media,300000,1500,0.08,0.005,Young Professionals,Instagram
+MKT005,New Phase Launch,P001,2023-03-20,TV Ads,1000000,3000,0.05,0.015,All,TV Station

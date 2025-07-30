@@ -1,0 +1,6 @@
+Project_ID,Project_Name,Project_Type,Location_District,Location_Subdistrict,Total_Units,Units_Completed,Units_Sold_toDate,Project_Status,Target_Audience,Project_Size_Acres,Proximity_to_BTS_MRT_Km,Proximity_to_Shopping_Km,Proximity_to_School_Km,Land_Cost_Per_SqM,Construction_Cost_Per_SqM,Average_Selling_Price_Per_SqM_Initial,Amenities_Score,Green_Space_Ratio,Parking_Ratio,Marketing_Budget_Initial
+P001,The Grand Residence,Condominium,Bangkok,Sukhumvit,300,300,280,Completed,Upper-Mid,5.2,0.5,1.0,2.5,150000,70000,180000,8.5,0.3,1.2,25000000
+P002,Serenity Villas,House,Phuket,Chalong,50,45,40,Completed,High-End,10.0,15.0,3.0,1.5,80000,50000,150000,9.2,0.5,2.5,10000000
+P003,Urban Lofts,Condominium,Bangkok,Ratchathewi,150,100,80,Under Construction,Mid-Range,3.5,0.2,0.8,1.0,120000,60000,140000,7.8,0.2,1.0,15000000
+P004,Green Oasis,Townhouse,Chiang Mai,Suthep,80,80,75,Completed,Mid-Range,7.0,10.0,5.0,3.0,40000,30000,75000,8.0,0.4,1.8,8000000
+P005,Skyline Towers,Condominium,Bangkok,Sathorn,500,200,150,Under Construction,Upper-Mid,8.0,0.3,0.5,2.0,200000,80000,220000,9.0,0.25,1.5,30000000

@@ -1,0 +1,7 @@
+Lead_ID,Customer_ID,Project_ID,Lead_Source,Lead_Date,Status,Status_Change_Date,Initial_Contact_Method,Sales_Person_ID,Visit_Scheduled_Date,Visit_Actual_Date,Quotation_Date,Booking_Date,Contract_Date,Is_Converted_to_Sale
+L001,C001,P001,Online Ads,2023-01-05,Converted,2023-01-10,Website Inquiry,SP001,2023-01-08,2023-01-08,2023-01-09,2023-01-10,2023-01-15,TRUE
+L002,C002,P001,Event,2023-01-15,Converted,2023-01-18,On-site Visit,SP002,2023-01-15,2023-01-15,2023-01-17,2023-01-18,2023-01-25,TRUE
+L003,C003,P001,Referral,2023-01-20,Lost,2023-01-25,Phone Call,SP001,,,2023-01-22,,FALSE
+L004,C004,P002,Real Estate Expo,2023-02-10,Converted,2023-02-20,Expo Booth,SP003,2023-02-15,2023-02-15,2023-02-18,2023-02-20,2023-02-28,TRUE
+L005,C005,P003,Social Media,2023-03-05,In Progress,2023-03-10,Facebook Message,SP004,2023-03-12,,2023-03-15,,FALSE
+L006,C006,P001,TV Ads,2023-03-20,New,2023-03-20,Call Center,SP001,,,,,,FALSE
